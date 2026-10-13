@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ishika Gautam 👋
 
-<!--
-**ishikagautam-2008/ishikagautam-2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Hons) student at GLA University
 
-Here are some ideas to get you started:
+## 💻 What I know
+- 🐍 Python
+- ☕ Java
+- 🌐 HTML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm doing now
+- Practicing problem solving on HackerRank
+- Building a strong base in programming
+- Learning more every day and planning to build small projects
+
+## 🎯 Goals
+- Improve my Python and Java problem-solving skills
+- Learn CSS, JavaScript and Git/GitHub properly
+- Build and share projects in public repositories
+
+## 📫 Connect with me
+- LinkedIn: [Ishika Gautam](https://linkedin.com/in/your-link)
